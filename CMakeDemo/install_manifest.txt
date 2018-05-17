@@ -1,0 +1,2 @@
+C:/Program Files (x86)/CMakeDemo/bin/CMakeDemo.exe
+C:/Program Files (x86)/CMakeDemo/include/hello.h

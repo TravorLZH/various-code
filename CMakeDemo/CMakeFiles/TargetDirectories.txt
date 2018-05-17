@@ -1,0 +1,4 @@
+C:/Users/liut21/Scripts/CMakeDemo/CMakeFiles/CMakeDemo.dir
+C:/Users/liut21/Scripts/CMakeDemo/CMakeFiles/INSTALL.dir
+C:/Users/liut21/Scripts/CMakeDemo/CMakeFiles/ALL_BUILD.dir
+C:/Users/liut21/Scripts/CMakeDemo/CMakeFiles/ZERO_CHECK.dir

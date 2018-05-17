@@ -1,0 +1,65 @@
+[editor]
+line_wrapping=false
+line_break_column=72
+auto_continue_multiline=true
+
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=GLUT
+base_path=C:\\Users\\liut21\\Scripts\\OpenGL\\
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=15
+FILE_NAME_0=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CWaterRenderer.h;0;4
+FILE_NAME_1=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CWaterRenderer.cpp;0;4
+FILE_NAME_2=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CSkyboxRenderer.h;0;4
+FILE_NAME_3=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CSkyboxRenderer.cpp;0;4
+FILE_NAME_4=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CSFMLRenderer.h;0;4
+FILE_NAME_5=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CSFMLRenderer.cpp;0;4
+FILE_NAME_6=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CRenderMaster.h;0;4
+FILE_NAME_7=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CRenderMaster.cpp;0;4
+FILE_NAME_8=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CQuadRenderer.h;0;4
+FILE_NAME_9=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CQuadRenderer.cpp;0;4
+FILE_NAME_10=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CFramebuffer.h;0;4
+FILE_NAME_11=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CFramebuffer.cpp;0;4
+FILE_NAME_12=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CCubeRenderer.h;0;4
+FILE_NAME_13=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CCubeRenderer.cpp;0;4
+FILE_NAME_14=0;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CChunkRenderer.h;0;4
+FILE_NAME_15=236;C++;0;EUTF-8;1;1;0;C%3A%5CUsers%5Cliut21%5CDownloads%5CMineCraft-One-Week-Challenge-master%5CSource%5CRenderer%5CChunkRenderer.cpp;0;4
+
+[build-menu]
+EX_00_LB=_Execute
+EX_00_CM="%e"
+EX_00_WD=
+ASMFT_00_LB=_Compile
+ASMFT_00_CM=nasm -f win32 "%f"
+ASMFT_00_WD=
+ASMFT_01_LB=_Build
+ASMFT_01_CM=gcc -o "%e.exe" "%e.obj"
+ASMFT_01_WD=
+filetypes=ASM;C;
+CFT_00_LB=Build _CGI
+CFT_00_CM=C:\\MinGW\\bin\\gcc -Wall -o"C:\\Apache24\\cgi-bin\\%e.cgi" -c "%f"
+CFT_00_WD=
+CFT_01_LB=_Build
+CFT_01_CM=C:\\MinGW\\bin\\gcc -o "%e.exe" "%f"
+CFT_01_WD=
