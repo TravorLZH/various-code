@@ -30,7 +30,6 @@ void onkey(unsigned char c,int x,int y){
 void display(void){
 	int i=0;
 	float R=0.5f;
-	printf("display()\n");
 	glClear(GL_COLOR_BUFFER_BIT);
 	glBegin(GL_LINES);
 	glColor3f(1.0f,1.0f,1.0f);
@@ -41,7 +40,6 @@ void display(void){
 	glEnd();
 	glBegin(GL_LINE_STRIP);
 	glColor3f(0.0f,1.0f,0.0f);
-	printf("%d\n",x);
 	for(;i<=x;i++){
 		glVertex2f(R*cos(2*PI*i/x),R*sin(2*PI*i/x));
 	}
